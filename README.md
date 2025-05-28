@@ -107,8 +107,8 @@ Podés testear todos los endpoints con **Postman**. Se incluye una colección li
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Giuliano Sacco](https://github.com/tu_usuario)
-Estudiante de Ingeniería en Computación y Economía | Backend Dev desde Uruguay
+Desarrollado por [Giuliano Sacco](https://github.com/Giuliano-Sacco)
+Ingeniería en Computación y Economía | Backend Dev desde Uruguay
 
 ---
 
